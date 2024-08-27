@@ -1,0 +1,116 @@
+2024-07-08 10:02:09 ERROR ErrorLogger:129 - Username has been existed
+2024-07-08 10:03:01 ERROR ErrorLogger:129 - Username has been existed
+2024-07-08 10:07:59 ERROR ErrorLogger:139 - Input field not found
+2024-07-08 10:38:45 ERROR ErrorLogger:173 - Bad credentials
+2024-07-08 10:39:24 ERROR ErrorLogger:129 - CompanyResponse not found
+2024-07-08 10:41:34 ERROR ErrorLogger:173 - could not execute statement [Duplicate entry '1' for key 'token.UK_g7im3j7f0g31yhl6qco2iboy5'] [insert into token (expire,token_string,user_id) values (?,?,?)]; SQL [insert into token (expire,token_string,user_id) values (?,?,?)]; constraint [token.UK_g7im3j7f0g31yhl6qco2iboy5]
+2024-07-08 10:49:57 ERROR ErrorLogger:85 - Step id is not found
+2024-07-08 10:58:26 ERROR ErrorLogger:173 - Bad credentials
+2024-07-08 11:09:02 ERROR ErrorLogger:53 - JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+2024-07-08 11:16:03 ERROR ErrorLogger:53 - JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+2024-07-08 11:20:59 ERROR ErrorLogger:117 - Step id is not found
+2024-07-08 11:21:41 ERROR ErrorLogger:53 - JWT expired at 2024-07-05T09:48:39Z. Current time: 2024-07-08T04:21:41Z, a difference of 239582498 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-08 11:30:04 ERROR ErrorLogger:53 - JWT expired at 2024-07-06T01:35:51Z. Current time: 2024-07-08T04:30:04Z, a difference of 183253111 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-08 11:30:41 ERROR ErrorLogger:82 - User not found!
+2024-07-08 11:34:19 ERROR ErrorLogger:53 - JWT expired at 2024-07-06T01:35:51Z. Current time: 2024-07-08T04:34:19Z, a difference of 183508993 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-08 11:34:30 ERROR ErrorLogger:130 - Input value not found!
+2024-07-08 11:34:37 ERROR ErrorLogger:130 - Input value not found!
+2024-07-08 11:34:44 ERROR ErrorLogger:53 - JWT expired at 2024-07-06T01:35:51Z. Current time: 2024-07-08T04:34:44Z, a difference of 183533284 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-08 11:40:08 ERROR ErrorLogger:53 - JWT expired at 2024-07-06T01:35:51Z. Current time: 2024-07-08T04:40:08Z, a difference of 183857986 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-08 11:40:08 ERROR ErrorLogger:53 - JWT expired at 2024-07-06T01:35:51Z. Current time: 2024-07-08T04:40:08Z, a difference of 183857986 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-09 11:31:51 ERROR ErrorLogger:53 - JWT expired at 2024-07-09T02:52:19Z. Current time: 2024-07-09T04:31:51Z, a difference of 5972416 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-09 11:32:15 ERROR ErrorLogger:53 - JWT expired at 2024-07-09T03:58:58Z. Current time: 2024-07-09T04:32:15Z, a difference of 1997496 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-09 13:14:59 ERROR ErrorLogger:173 - Bad credentials
+2024-07-09 13:17:43 ERROR ErrorLogger:71 - Event Category Not Found
+2024-07-09 13:24:26 ERROR ErrorLogger:71 - Event Category Not Found
+2024-07-09 13:24:32 ERROR ErrorLogger:71 - Event Category Not Found
+2024-07-09 13:35:36 ERROR ErrorLogger:53 - JWT expired at 2024-07-09T03:58:58Z. Current time: 2024-07-09T06:35:36Z, a difference of 9398046 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-09 13:36:30 ERROR ErrorLogger:53 - JWT expired at 2024-07-09T03:58:58Z. Current time: 2024-07-09T06:36:30Z, a difference of 9452975 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-09 13:37:09 ERROR ErrorLogger:77 - Invalid input type: NUMBERF
+2024-07-09 13:42:14 ERROR ErrorLogger:77 - Invalid input type: NUMBERR
+2024-07-09 13:47:27 ERROR ErrorLogger:207 - The given id must not be null
+2024-07-09 13:47:37 ERROR ErrorLogger:207 - Employee Not Found
+2024-07-10 08:29:06 ERROR ErrorLogger:173 - Bad credentials
+2024-07-10 08:34:04 ERROR ErrorLogger:173 - Bad credentials
+2024-07-10 08:41:36 ERROR ErrorLogger:181 - Bad credentials
+2024-07-10 08:41:57 ERROR ErrorLogger:181 - Bad credentials
+2024-07-10 08:43:24 ERROR ErrorLogger:181 - Bad credentials
+2024-07-10 08:44:22 ERROR ErrorLogger:173 - Can not find user
+2024-07-10 08:55:05 ERROR ErrorLogger:176 - Can not find user
+2024-07-10 08:55:13 ERROR ErrorLogger:176 - Can not find user
+2024-07-10 08:55:26 ERROR ErrorLogger:176 - Can not find user
+2024-07-10 09:00:05 ERROR ErrorLogger:176 - Can not find user
+2024-07-10 09:38:47 ERROR ErrorLogger:176 - Can not find user
+2024-07-10 09:58:58 ERROR ErrorLogger:174 - user.login.login_failed
+2024-07-10 09:59:58 ERROR ErrorLogger:174 - Login failed, username or password is not correct
+2024-07-10 10:00:06 ERROR ErrorLogger:174 - Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng
+2024-07-10 10:06:23 ERROR ErrorLogger:174 - Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng
+2024-07-10 10:26:12 ERROR ErrorLogger:175 - Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng
+2024-07-10 10:29:11 ERROR ErrorLogger:175 - Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng
+2024-07-10 10:29:32 ERROR ErrorLogger:175 - Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng
+2024-07-10 10:29:39 ERROR ErrorLogger:175 - Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng
+2024-07-10 10:30:15 ERROR ErrorLogger:175 - Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng
+2024-07-10 11:00:39 ERROR ErrorLogger:211 - Logout failed, Token is not found!
+2024-07-10 11:29:03 ERROR ErrorLogger:86 - Invalid input type: NUMBERR
+2024-07-10 11:30:03 ERROR ErrorLogger:86 - Invalid input type: NUMBERR
+2024-07-10 11:30:31 ERROR ErrorLogger:86 - Invalid input permission: QREADONLY
+2024-07-10 14:45:04 ERROR ErrorLogger:88 - Invalid input type: NUMBERR
+2024-07-10 14:47:54 ERROR ErrorLogger:53 - JWT expired at 2024-07-09T03:58:58Z. Current time: 2024-07-10T07:47:54Z, a difference of 100136334 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-10 14:48:13 ERROR ErrorLogger:125 - Step id is not found
+2024-07-10 14:53:09 ERROR ErrorLogger:99 - No enum constant com.example.employeeevaluation.entity.enums.EInputType.NUMBERR
+2024-07-10 14:58:35 ERROR ErrorLogger:92 - Step id is not found
+2024-07-10 15:17:59 ERROR ErrorLogger:101 - All item is not correct!
+2024-07-10 15:23:39 ERROR ErrorLogger:104 - All item is not correct!
+2024-07-10 15:26:21 ERROR ErrorLogger:104 - All item is not correct!
+2024-07-10 15:51:02 ERROR ErrorLogger:113 - The given id must not be null
+2024-07-10 15:52:53 ERROR ErrorLogger:113 - The given id must not be null
+2024-07-11 09:07:53 ERROR ErrorLogger:211 - Logout failed, Token is not found!
+2024-07-11 09:12:06 ERROR ErrorLogger:155 - Failed: Invalid step ID: a
+2024-07-11 09:17:58 ERROR ErrorLogger:155 - Failed: Invalid step ID: a
+2024-07-11 09:18:09 ERROR ErrorLogger:155 - Failed: Invalid step ID: null
+2024-07-11 09:34:29 ERROR ErrorLogger:160 - Failed: Invalid step ID: a
+2024-07-11 09:34:36 ERROR ErrorLogger:160 - Step id is not found
+2024-07-11 09:42:41 ERROR ErrorLogger:53 - JWT expired at 2024-07-09T02:52:19Z. Current time: 2024-07-11T02:42:41Z, a difference of 172222089 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-11 09:42:45 ERROR ErrorLogger:53 - JWT expired at 2024-07-09T02:52:19Z. Current time: 2024-07-11T02:42:45Z, a difference of 172226285 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-11 09:43:00 ERROR ErrorLogger:200 - Input field not found
+2024-07-11 09:43:12 ERROR ErrorLogger:200 - Failed: Invalid step ID: a
+2024-07-11 10:06:14 ERROR ErrorLogger:207 - Failed: Invalid input type: A
+2024-07-11 10:07:07 ERROR ErrorLogger:207 - Failed: Invalid input type: a
+2024-07-11 10:10:21 ERROR ErrorLogger:207 - Failed: Invalid input type: string_
+2024-07-11 10:18:26 ERROR ErrorLogger:217 - Failed: Invalid input type: REQUIRED
+2024-07-11 10:18:44 ERROR ErrorLogger:217 - Failed: Invalid input type: optional
+2024-07-11 10:18:55 ERROR ErrorLogger:217 - Failed: Invalid input type: REQUIRED
+2024-07-11 10:19:32 ERROR ErrorLogger:280 - No enum constant com.example.employeeevaluation.entity.enums.EInputType.REQUIRED
+2024-07-11 10:21:20 ERROR ErrorLogger:271 - Failed: Invalid input permission: ontional
+2024-07-11 10:21:33 ERROR ErrorLogger:271 - Failed: Invalid input permission: reading
+2024-07-11 10:57:59 ERROR ErrorLogger:371 - could not execute statement [Cannot delete or update a parent row: a foreign key constraint fails (`evaluationdb`.`input_value`, CONSTRAINT `fk_ivalue_ifield` FOREIGN KEY (`input_field_id`) REFERENCES `input_field` (`input_field_id`))] [delete from input_field where input_field_id=?]; SQL [delete from input_field where input_field_id=?]; constraint [null]
+2024-07-11 11:00:04 ERROR ErrorLogger:363 - Failed: Invalid step ID: a
+2024-07-11 11:01:58 ERROR ErrorLogger:368 - Step with id 1 is not have any input field
+2024-07-11 11:02:06 ERROR ErrorLogger:368 - Step with id 2 is not have any input field
+2024-07-11 11:02:45 ERROR ErrorLogger:368 - Failed: Invalid step ID: df
+2024-07-11 11:02:53 ERROR ErrorLogger:368 - Step with id 2 is not have any input field
+2024-07-11 14:46:02 ERROR ErrorLogger:53 - JWT expired at 2024-07-11T04:26:44Z. Current time: 2024-07-11T07:46:02Z, a difference of 11958178 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-11 14:46:17 ERROR ErrorLogger:53 - JWT expired at 2024-07-11T04:26:44Z. Current time: 2024-07-11T07:46:17Z, a difference of 11973894 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-11 14:48:32 ERROR ErrorLogger:53 - JWT expired at 2024-07-11T04:26:44Z. Current time: 2024-07-11T07:48:32Z, a difference of 12108443 milliseconds.  Allowed clock skew: 0 milliseconds.
+2024-07-11 14:50:15 ERROR ErrorLogger:479 - Cannot invoke "com.example.employeeevaluation.entity.User.getUserId()" because the return value of "com.example.employeeevaluation.entity.InputField.getUser()" is null
+2024-07-11 14:58:43 ERROR ErrorLogger:173 - Cannot invoke "com.example.employeeevaluation.entity.User.getUserId()" because the return value of "com.example.employeeevaluation.entity.InputField.getUser()" is null
+2024-07-11 14:59:24 ERROR ErrorLogger:173 - Cannot invoke "com.example.employeeevaluation.entity.User.getUserId()" because the return value of "com.example.employeeevaluation.entity.InputField.getUser()" is null
+2024-07-11 14:59:46 ERROR ErrorLogger:173 - Cannot invoke "com.example.employeeevaluation.entity.User.getUserId()" because the return value of "com.example.employeeevaluation.entity.InputField.getUser()" is null
+2024-07-11 15:00:11 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:01:01 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:01:22 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:02:16 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:04:22 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:04:41 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:04:57 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:05:34 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:06:35 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:10:27 ERROR ErrorLogger:492 - Cannot invoke "String.isEmpty()" because the return value of "com.example.employeeevaluation.dto.request.InputFieldUpdateRequest.getStepId()" is null
+2024-07-11 15:15:42 ERROR ErrorLogger:483 - Failed: All item is not correct!
+2024-07-11 15:17:38 ERROR ErrorLogger:492 - Cannot invoke "String.isEmpty()" because the return value of "com.example.employeeevaluation.dto.request.InputFieldUpdateRequest.getType()" is null
+2024-07-11 15:19:46 ERROR ErrorLogger:492 - Cannot invoke "String.isEmpty()" because the return value of "com.example.employeeevaluation.dto.request.InputFieldUpdateRequest.getStepId()" is null
+2024-07-11 15:22:14 ERROR ErrorLogger:318 - Input field not found
+2024-07-11 15:22:30 ERROR ErrorLogger:373 - Step with id 2 is not have any input field
+2024-07-11 15:24:32 ERROR ErrorLogger:373 - Step with id 1 is not have any input field
+2024-07-11 15:24:47 ERROR ErrorLogger:484 - Failed: All item is not correct!
+2024-07-11 15:25:00 ERROR ErrorLogger:484 - Failed: All item is not correct!

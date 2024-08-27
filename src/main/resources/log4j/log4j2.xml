@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+  <Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+    </Console>
+    <File name="InfoLog" fileName="logs/InfoLog.log" append="true">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+    </File>
+    <File name="WarnLog" fileName="logs/WarnLog.log" append="true">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+    </File>
+    <File name="ErrorLog" fileName="logs/ErrorLog.log" append="true">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+    </File>
+  </Appenders>
+  <Loggers>
+    <Logger name="InfoLogger" level="info" additivity="false">
+      <AppenderRef ref="InfoLog"/>
+    </Logger>
+    <Logger name="WarningLogger" level="warn" additivity="false">
+      <AppenderRef ref="WarnLog"/>
+    </Logger>
+    <Logger name="ErrorLogger" level="error" additivity="false">
+      <AppenderRef ref="ErrorLog"/>
+    </Logger>
+    <Root level="info">
+      <AppenderRef ref="Console"/>
+    </Root>
+  </Loggers>
+</Configuration>
